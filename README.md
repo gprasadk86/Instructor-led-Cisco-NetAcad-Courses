@@ -1,32 +1,32 @@
-# Cisco Networking Academy Courses
+# Networking and Cybersecurity Learning Resources
 
-Welcome to the KGP NetSec Academy course directory.
+A collection of learning resources for computer
+networking, cybersecurity, and IT fundamentals.
 
-**Instructor:** K Guruprasad  
-**Affiliation:** OUS Cisco ASC/ITC
+## Networking
 
-## Available Courses
+- [Networking Basics](PASTE_RESOURCE_LINK)
+- [Introduction to Networks](PASTE_RESOURCE_LINK)
+- [Switching and Routing](PASTE_RESOURCE_LINK)
 
-- [Networking Basics](PASTE_COURSE_LINK)
-- [Introduction to Cybersecurity](PASTE_COURSE_LINK)
-- [Introduction to Networks](PASTE_COURSE_LINK)
-- [Cybersecurity Essentials](PASTE_COURSE_LINK)
-- [Python Essentials 1](PASTE_COURSE_LINK)
-- [NDG Linux Unhatched](PASTE_COURSE_LINK)
+## Cybersecurity
 
-## Upcoming Courses
+- [Introduction to Cybersecurity](PASTE_RESOURCE_LINK)
+- [Cybersecurity Fundamentals](PASTE_RESOURCE_LINK)
+- [Security Operations](PASTE_RESOURCE_LINK)
 
-- CCNA 1 – Introduction to Networks
-- CCNA 2 – Switching, Routing, and Wireless Essentials
-- CCNA 3 – Enterprise Networking, Security, and Automation
-- Cisco CyberOps
-- DevNet
-- CCNP Core and Advanced Courses
+## Other Technical Resources
 
-## Enrollment
+- [Python Essentials](PASTE_RESOURCE_LINK)
+- [Linux Fundamentals](PASTE_RESOURCE_LINK)
+- [Network Simulation and Labs](PASTE_RESOURCE_LINK)
 
-Select the link beside an available course to access
-its course or enrollment page.
+## Disclaimer
 
-Course availability depends on the current
-instructor-led offerings.
+This repository is an independent collection of
+learning resources. It is not an official Cisco
+website or a Cisco-owned course directory.
+
+All trademarks and course names belong to their
+respective owners. Refer to the original providers
+for course availability, access, and enrollment.

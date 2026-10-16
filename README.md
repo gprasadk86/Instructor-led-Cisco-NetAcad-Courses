@@ -3,6 +3,9 @@
 A directory of instructor-led courses offered through
 my affiliated Cisco Networking Academy teaching activity.
 
+**Instructor:** K Guruprasad  
+**Affiliation:** OUS Cisco ASC/ITC
+
 ## Available Courses
 
 - [CCNA: Introduction to Networks](YOUR_CLASS_ENROLLMENT_LINK)

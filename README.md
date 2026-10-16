@@ -1,32 +1,27 @@
-# Cisco Networking Academy Courses
+# Cisco Networking Academy — Instructor-Led Courses
 
-Welcome to the KGP NetSec Academy course directory.
-
-**Instructor:** K Guruprasad  
-**Affiliation:** OUS Cisco ASC/ITC
+A directory of instructor-led courses offered through
+my affiliated Cisco Networking Academy teaching activity.
 
 ## Available Courses
 
-- [Networking Basics](PASTE_COURSE_LINK)
-- [Introduction to Cybersecurity](PASTE_COURSE_LINK)
-- [Introduction to Networks](PASTE_COURSE_LINK)
-- [Cybersecurity Essentials](PASTE_COURSE_LINK)
-- [Python Essentials 1](PASTE_COURSE_LINK)
-- [NDG Linux Unhatched](PASTE_COURSE_LINK)
-
-## Upcoming Courses
-
-- CCNA 1 – Introduction to Networks
-- CCNA 2 – Switching, Routing, and Wireless Essentials
-- CCNA 3 – Enterprise Networking, Security, and Automation
-- Cisco CyberOps
-- DevNet
-- CCNP Core and Advanced Courses
+- [CCNA: Introduction to Networks](YOUR_CLASS_ENROLLMENT_LINK)
+- [CCNA: Switching, Routing, and Wireless Essentials](YOUR_CLASS_ENROLLMENT_LINK)
+- [CCNA: Enterprise Networking, Security, and Automation](YOUR_CLASS_ENROLLMENT_LINK)
+- [CyberOps Associate](YOUR_CLASS_ENROLLMENT_LINK)
+- [DevNet Associate](YOUR_CLASS_ENROLLMENT_LINK)
 
 ## Enrollment
 
-Select the link beside an available course to access
-its course or enrollment page.
+Select a course to access its relevant class or
+enrollment page.
 
-Course availability depends on the current
-instructor-led offerings.
+Course availability and enrollment are subject to
+the applicable academy and class arrangements.
+
+## Notice
+
+Cisco Networking Academy course names are used
+to identify the relevant educational offerings.
+This repository is independently maintained and
+is not an official Cisco website.
